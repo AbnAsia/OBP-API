@@ -1,8 +1,10 @@
 # README
 
-The Open Bank Project API
+The Open Banking Ecosystem Vietnam Project API
 
 ## ABOUT
+
+The Open Banking Ecosystem Vietnam implements a set of API connections to Vietnam banks, allowing fintechs to connect to banks faster and for banks to expose their API services faster. 
 
 The Open Bank Project is an open source API for banks that enables account holders to interact with their bank using a wider range of applications and services.
 
